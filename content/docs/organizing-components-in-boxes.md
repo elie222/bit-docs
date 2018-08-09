@@ -28,7 +28,7 @@ To set a self-managed Scope, please head over to [Bit on the Server section](/do
 ### Creating a Scope on bitsrc.io
 
 [bitsrc.io](https://bitsrc.io) is a community hub designed to host and provide greater discoverability for shared components. You can create as many Scopes as you like and manage permissions via the web UI.  
-Components hosted on [bitsrc.io](bitsrc.io) can also be installed using the Yarn / NPM client.  
+Components hosted on [bitsrc.io](https://bitsrc.io) can also be installed using the Yarn / NPM client.  
 To host a Scope on [bitsrc.io](https://bitsrc.io) simply [signup](https://bitsrc.io/signup) and follow the instructions.
 
 ## Organizing components in a single Scope

@@ -8,7 +8,7 @@ next: conf-bit-on-the-server.html
 
 ---
 
-The `bit.json` file is your [workspace] configuration file. This document specifies all the different configurations that are set in the file.
+The `bit.json` file is your workspace configuration file. This document specifies all the different configurations that are set in the file.
 
 ## Overview
 

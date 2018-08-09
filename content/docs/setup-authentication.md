@@ -40,10 +40,10 @@ Bit uses SSH to authenticate a computer with your account, so Bit can authentica
 SSH access to servers is already set up in most cases – and if it isn’t, it’s easy to do. SSH is also an authenticated network protocol; and because it’s ubiquitous, it’s generally easy to set up and use.
 This makes SSH the preferred method for collaboration.
 
-There are two methods to authenticate a local Bit client to your [bitsrc.io](bitsrc.io) account.
+There are two methods to authenticate a local Bit client to your [bitsrc.io](https://bitsrc.io) account.
 
-- [bit login](/docs/cli-login.html) command - This generates an authentication token for your [bitsrc.io](bitsrc.io) account, configures it to the local Bit client and uses that token to initiate an SSH connection.
-- SSH key-pair - Generate an SSH key pair, upload the public part to your [bitsrc.io](bitsrc.io) account, and configure your Bit client to use the private part.
+- [bit login](/docs/cli-login.html) command - This generates an authentication token for your [bitsrc.io](https://bitsrc.io) account, configures it to the local Bit client and uses that token to initiate an SSH connection.
+- SSH key-pair - Generate an SSH key pair, upload the public part to your [bitsrc.io](https://bitsrc.io) account, and configure your Bit client to use the private part.
 
 ### Authenticating Bit using 'bit login'
 
@@ -54,7 +54,7 @@ $ bit login
 Your browser has been opened to visit: http://bitsrc.io/bit-login?redirect_uri=http://localhost:8085...
 ```
 
-Your browser will automatically open a login page. Enter your [bitsrc.io](bitsrc.io) account credentials. The authentication token will be generated and configured to [bit config](/docs/cli-config.html).
+Your browser will automatically open a login page. Enter your [bitsrc.io](https://bitsrc.io) account credentials. The authentication token will be generated and configured to [bit config](/docs/cli-config.html).
 
 > **Logging out from Bit**
 >
@@ -62,7 +62,7 @@ Your browser will automatically open a login page. Enter your [bitsrc.io](bitsrc
 
 #### Managing your authentication devices
 
-If you used [bit login](/docs/cli-login.html) to authenticate a Bit client with a [Bit](bitsrc.io) account, you can see a list of all logged in devices in the [profile settings](https://bitsrc.io/settings).
+If you used [bit login](/docs/cli-login.html) to authenticate a Bit client with a [Bit](https://bitsrc.io) account, you can see a list of all logged in devices in the [profile settings](https://bitsrc.io/settings).
 
 Here you can remove tokens, thus forcing Bit clients to re-authenticate themselves with your account.
 

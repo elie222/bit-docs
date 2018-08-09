@@ -40,6 +40,8 @@
       title: How Do I...
     - id: faq-component-dependencies
       title: Component Dependencies
+    - id: faq-understanding-bit-status
+      title: Understanding Bit Status
 - title: Extending Bit
   items:
     - id: ext-concepts

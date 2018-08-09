@@ -29,7 +29,7 @@ You can now go take a look at the `env` configuration in your [bit.json](/docs/c
 
 #### Curated list of build environments on Bitsrc.io
 
-You can find a list of Build Environments maintained by the [bitsrc.io](bitsrc.io) team [here](https://bitsrc.io/bit/envs).
+You can find a list of Build Environments maintained by the [bitsrc.io](https://bitsrc.io) team [here](https://bitsrc.io/bit/envs).
 
 - [Babel](https://bitsrc.io/bit/envs/compilers/babel).
 - [Flow](https://bitsrc.io/bit/envs/compilers/flow).
@@ -58,8 +58,8 @@ After exporting a component to a [self-managed remote Scope](/docs/organizing-co
 
 ### bitsrc.io-managed Scope
 
-After exporting a component to a [bitsrc.io-managed Scope](/docs/organizing-components-in-scopes.html#creating-a-scope-on-bitsrcio), [bitsrc.io](bitsrc.io) will create an isolated container, where the component will be built in the remote Scope in an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment).
-As the Scope [owner or collaborator](/docs/scopes-on-bitsrc.html#Scope-permissions), you can enter the component page on [bitsrc.io](bitsrc.io), and view the build log in the `Console Output` tab.
+After exporting a component to a [bitsrc.io-managed Scope](/docs/organizing-components-in-scopes.html#creating-a-scope-on-bitsrcio), [bitsrc.io](https://bitsrc.io) will create an isolated container, where the component will be built in the remote Scope in an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment).
+As the Scope [owner or collaborator](/docs/scopes-on-bitsrc.html#Scope-permissions), you can enter the component page on [bitsrc.io](https://bitsrc.io), and view the build log in the `Console Output` tab.
 
 ## Set dist target and entry
 

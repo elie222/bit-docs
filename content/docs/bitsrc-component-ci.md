@@ -9,8 +9,8 @@ next: setup-authentication.html
 
 Bitsrc.io runs all build/test tasks for all components it hosts in their own isolated container.
 
-When you are using Bit to export a component to a remote Scope hosted in [bitsrc.io](bitsrc.io), a container running Bit will import the new component, set up an isolated runtime environment for it, containins all the definitions found for the code component (pacakges, dependencies, etc). The output of it will be then populate the component page.  
-This is so all developers using [bitsrc.io](bitsrc.io) will get build/test results for each component in a truly isolated environment on a remote container, which is purged after its done.
+When you are using Bit to export a component to a remote Scope hosted in [bitsrc.io](https://bitsrc.io), a container running Bit will import the new component, set up an isolated runtime environment for it, containins all the definitions found for the code component (pacakges, dependencies, etc). The output of it will be then populate the component page.  
+This is so all developers using [bitsrc.io](https://bitsrc.io) will get build/test results for each component in a truly isolated environment on a remote container, which is purged after its done.
 
 ## Limitations
 

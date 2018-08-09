@@ -31,7 +31,7 @@ You can now go take a look at the `env` configuration in your [bit.json](/docs/c
 
 #### Curated list of test environments on Bitsrc.io
 
-You can find a list of **Test environments** maintained by the [bitsrc.io](bitsrc.io) team [here](https://bitsrc.io/bit/envs).
+You can find a list of **Test environments** maintained by the [bitsrc.io](https://bitsrc.io) team [here](https://bitsrc.io/bit/envs).
 
 - [Mocha](https://bitsrc.io/bit/envs/testers/mocha).
 - [Jest](https://bitsrc.io/bit/envs/testers/jest).
@@ -68,7 +68,7 @@ After exporting a component to a [self-managed remote Scope](/docs/organizing-co
 
 ### bitsrc.io-managed Scope
 
-After exporting a component to a [bitsrc.io managed Scope](/docs/organizing-components-in-scopes.html#creating-a-scope-on-bitsrcio), [bitsrc.io](bitsrc.io) will create an isolated container, where the component will be [built](/docs/building-components.html) and then tested in the remote Scope in an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment).
+After exporting a component to a [bitsrc.io managed Scope](/docs/organizing-components-in-scopes.html#creating-a-scope-on-bitsrcio), [bitsrc.io](https://bitsrc.io) will create an isolated container, where the component will be [built](/docs/building-components.html) and then tested in the remote Scope in an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment).
 When the tests have finished running, their results will be displayed as part of the component's documentation on [bitsrc.io](https://bitsrc.io).
 As the Scope [owner or collaborator](/docs/scopes-on-bitsrc.html#Scope-permissions), you can enter the component page on bitsrc.io, and view the CI results in the `Console Output` tab.
 

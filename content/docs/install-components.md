@@ -8,7 +8,7 @@ prev: troubleshooting-isolating.html
 next: clearing-bit-cache.html
 ---
 
-There are several issues you may encounter when you install or import a component from [bitsrc.io](bitsrc.io).
+There are several issues you may encounter when you install or import a component from [bitsrc.io](https://bitsrc.io).
 
 > **Are you getting 404's?**
 >
@@ -36,9 +36,9 @@ failed running yarn install at /Users/iteymendel/devenv/example-npm-error/compon
 error An unexpected error occurred: "https://registry.yarnpkg.com/@bit%2fbit.utils.string.pad-left: Not found".
 ```
 
-This means that when a component you are importing from [bitsrc.io](bitsrc.io) has other component dependencies, by default Bit will try to install the dependencies as node modules, using NPM or Yarn. This means that your package manager needs to have `@bit` defined as a scoped registry, so it can install packages from there.
+This means that when a component you are importing from [bitsrc.io](https://bitsrc.io) has other component dependencies, by default Bit will try to install the dependencies as node modules, using NPM or Yarn. This means that your package manager needs to have `@bit` defined as a scoped registry, so it can install packages from there.
 
-To do so, run the following command and use your [bitsrc.io](bitsrc.io) credentials.
+To do so, run the following command and use your [bitsrc.io](https://bitsrc.io) credentials.
 
 ```bash
 npm login --registry=https://node.bitsrc.io --scope=@bit

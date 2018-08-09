@@ -8,13 +8,6 @@ next: installing-bit.html
 ---
 Learn the basics of working with Bit in your own projects.
 
-> **Are you getting 404's?**
->
-> Due to the [compromised version of eslint-scope](https://status.npmjs.org/incidents/dn7c1fgrr7ng) that was released earlier today, we have decided to invalidate all Bit tokens issued before 2018-07-12, eliminating the possibility of compromised tokens, as Bit leverages the .npmrc file to store its token for accessing the @bit node module registry.
->
-> **To generate a new token**, please run `bit logout` followed by `bit login`.  
-> If you are using npm/Yarn run `npm login --registry=https://node.bitsrc.io --scope=@bit`
-
 To start, choose an existing repository containing components or modules you’d like to share in other projects. We’ll learn how to use Bit to make these components available to use and even develop from other repositories.
 
 You can also use one of our [example projects](/docs/quick-start.html#example-projects), but we recommend starting with your own code.
@@ -121,7 +114,7 @@ You can learn about [managing components in Scopes](/docs/organizing-components-
 
 #### Authenticate Bit CLI
 
-In order for the local Bit client to interact with resources you created in your [bitsrc.io](bitsrc.io) account, you need to authenticate the client.  
+In order for the local Bit client to interact with resources you created in your [bitsrc.io](https://bitsrc.io) account, you need to authenticate the client.  
 
 Use `bit login` to open a login page in the browser. Enter your username and password and return to Bit-CLI to continue.
 
@@ -134,7 +127,7 @@ Your browser has been opened to visit: http://bitsrc.io/bit-login?redirect_uri=h
 
 Unlike publishing packages, [exporting](/docs/cli-export.html) a component will *not* change the project's source code or force you to set up any additional repositories.  
 
-Instead, you can use the `bit export` command to share components from you project’s existing structure to [bitsrc.io](bitsrc.io).
+Instead, you can use the `bit export` command to share components from you project’s existing structure to [bitsrc.io](https://bitsrc.io).
 
 ```bash
 $ bit export username.scopename  # Share components to your Scope

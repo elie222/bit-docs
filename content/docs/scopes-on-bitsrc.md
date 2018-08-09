@@ -7,7 +7,7 @@ prev: my-account.html
 next: bitsrc-plans.html
 ---
 
-Scopes are distributed by nature. Setting up a free (forever for open source) remote Scope on [bitsrc.io](bitsrc.io) is quick and provides many advantages - but you can also choose to set up a remote Scope on your local machine.
+Scopes are distributed by nature. Setting up a free (forever for open source) remote Scope on [bitsrc.io](https://bitsrc.io) is quick and provides many advantages - but you can also choose to set up a remote Scope on your local machine.
 
 ## Scopes
 
@@ -17,11 +17,11 @@ Scopes functions as your source of truth, even when your components are sourced 
 
 Scopes also act as a virtualized layer that allows you to manage your components across different projects and applications.
 
-Creating a Scope on [bitsrc.io](bitsrc.io) is not only easier, it provides additional features for **discoverability** and **experience** such as a smart component search engine, component rendering, docs and examples parsed from the source code and an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment) - so you can monitor and understand components without having to spend hours writing docs.
+Creating a Scope on [bitsrc.io](https://bitsrc.io) is not only easier, it provides additional features for **discoverability** and **experience** such as a smart component search engine, component rendering, docs and examples parsed from the source code and an [isolated component environment](/docs/ext-concepts.html#what-is-an-isolated-component-environment) - so you can monitor and understand components without having to spend hours writing docs.
 
 ## Create a Scope on BitSrc
 
-If you have an account on [bitsrc.io](bitsrc.io), simply visit your empty dashboard screen to create your first Scope. If not, [sign-up](https://bitsrc.io/signup) and create your first Scope.
+If you have an account on [bitsrc.io](https://bitsrc.io), simply visit your empty dashboard screen to create your first Scope. If not, [sign-up](https://bitsrc.io/signup) and create your first Scope.
 
 Once signed-in, you can always click on the 'create new Scope' icon in the top-right corner of the screen.
 

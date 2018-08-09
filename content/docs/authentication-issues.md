@@ -16,13 +16,13 @@ Some issues may relate to simply account configuration issues.
 
 ### You are not signed up to bitsrc.io
 
-In order to import/export components hosted on [bitsrc.io](bitsrc.io) you need an to have an active account.  
-If you haven't signed up already, head over [here](bitsrc.io/signup).
+In order to import/export components hosted on [bitsrc.io](https://bitsrc.io) you need an to have an active account.  
+If you haven't signed up already, head over [here](https://bitsrc.io/signup).
 
 ### Wrong username/password combination
 
-In case you are not using [SSH key for authentication](docs/setup-authentication.html), Bit will ask for your username/password combination for your [bitsrc.io](bitsrc.io) account. Make sure you have provided with the correct combination of it.  
-In case you have forgotten your password, head to your [setting page](bitsrc.io/settings/profile) to reset it.
+In case you are not using [SSH key for authentication](docs/setup-authentication.html), Bit will ask for your username/password combination for your [bitsrc.io](https://bitsrc.io) account. Make sure you have provided with the correct combination of it.  
+In case you have forgotten your password, head to your [setting page](https://bitsrc.io/settings/profile) to reset it.
 
 ### No permission to the Scope
 
@@ -33,7 +33,7 @@ It may be that you do not have permissions to access the scope in question Scope
 
 ## SSH keys issues
 
-Bit uses SSH as the communication protocol between Bit and [bitsrc.io](bitsrc.io). In order to make this process works smoothly, you require to either configure Bit to use a specific SSH key, [as seen here](docs/setup-authentication.html).  
+Bit uses SSH as the communication protocol between Bit and [bitsrc.io](https://bitsrc.io). In order to make this process works smoothly, you require to either configure Bit to use a specific SSH key, [as seen here](docs/setup-authentication.html).  
 There are several configuration issues that may occur if you hit any permission issues when working with SSH keys and remote Scopes.
 
 **If the SSH connection is not established due to issues with SSH keys, Bit will fail to authenticate.**
