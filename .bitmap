@@ -82,7 +82,7 @@
         "origin": "IMPORTED",
         "originallySharedDir": "content/tutorial"
     },
-    "bit.docs/content/docs@0.0.24": {
+    "bit.docs/content/docs@0.0.26": {
         "files": [
             {
                 "name": "authentication-issues.md",

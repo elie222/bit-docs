@@ -3,7 +3,7 @@
     "dependencies": {
         "bit.docs/content/tutorial": "0.0.11",
         "bit.docs/content/community": "0.0.3",
-        "bit.docs/content/docs": "0.0.15"
+        "bit.docs/content/docs": "0.0.26"
     },
     "componentsDefaultDirectory": "{namespace}/{name}",
     "packageManager": "npm"
