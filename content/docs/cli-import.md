@@ -12,7 +12,7 @@ Imports a component to your project from a remote Scope.
 ## Synopsis
 
 ```bash
-bit import|i [-t|--tester] [-w|--write] [-v|--verbose] [-c|--compiler] [-e|--environment] [--extension] [-p|--path <directory>] [-d|--display-dependencies] [-O|--override] [--dist] [--conf] [--no-package-json] [ids...]
+bit import|i [-t|--tester] [-v|--verbose] [-c|--compiler] [-e|--environment] [--extension] [-p|--path <directory>] [-d|--display-dependencies] [-O|--override] [--dist] [--conf] [--ignore-package-json] [ids...]
 ```
 
 ## Examples
@@ -50,14 +50,6 @@ The [bit.json file](/docs/conf-bit-json.html) contains a list of the project's s
 
 ```bash
 bit import
-```
-
-#### Update all project's sourced components with the latest version
-
-In order to pull all remote changes for all your project's sourced components, to get their updates into your code, add the `--write` flag to the `bit import` command.
-
-```bash
-bit import --write
 ```
 
 ### Import project's environments
