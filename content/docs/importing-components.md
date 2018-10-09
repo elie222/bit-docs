@@ -78,7 +78,7 @@ To require this component you can use either relative paths or absolute paths se
 
 ## Import a different component version
 
-When you importing a component, by default the latest version is imported. You ca import a different version by specifying the version after an `@` sign:
+When you import a component, by default the latest version is imported. You can import a different version by specifying the version after an `@` sign:
 
 ```bash
 $ bit import bit.examples/string/left-pad@0.0.11
