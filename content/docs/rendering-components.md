@@ -30,6 +30,7 @@ Some [JSDocs](http://usejsdoc.org/about-getting-started.html#adding-documentatio
 * <Hero
 *   title="Season 66 will be available soon!"
 *   description="Lorem ipsum dolor sit amet hey! id quam sapiente unde voluptatum alias vero debitis, magnam quis quod."
+* />
 */
 class Hero() {
     ...
